@@ -53,18 +53,19 @@ Software developer & applied machine learning practitioner building projects in 
   <img
     height="200"
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=Saish31&show_icons=true&include_all_commits=true&custom_title=Saish%27s%20GitHub%20Stats&title_color=FFD100&text_color=FFD100&icon_color=FFD100&bg_color=000000&border_color=FFD100&ring_color=FFD100&hide_border=false&line_height=25&card_width=495"
-    alt="Saish's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Saish31&show_icons=true&include_all_commits=true&title_color=FFD100&text_color=FFD100&icon_color=FFD100&bg_color=000000&border_color=FFD100&ring_color=FFD100&line_height=25&card_width=495"
+    alt="GitHub Stats"
   />
 </a>
 <a href="https://github.com/Saish31">
   <img
     height="200"
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saish31&layout=pie&langs_count=20&card_width=360&custom_title=Top%20Languages&title_color=FFD100&text_color=FFD100&bg_color=000000&border_color=FFD100&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saish31&layout=pie&langs_count=20&card_width=360&title_color=FFD100&text_color=FFD100&bg_color=000000&border_color=FFD100"
     alt="Top Languages"
   />
 </a>
+
 
 
 ---
