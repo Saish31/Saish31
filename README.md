@@ -28,64 +28,83 @@ Software developer & applied machine learning practitioner building projects in 
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-> Click a repo name to view code (replace links with your actual repo URLs)
+<table>
+<tr>
+<td width="50%">
 
-- **Supply Chain Risk Dashboard** — Streamlit dashboard for supply chain risk prediction using Random Forest + SHAP explanations.  
-  `https://github.com/Saish31/supply-chain-risk-prediction` *(replace with real link)*
+### 🔹 High-Performance Shortest Path Solver (BMSSP)
 
-- **Crypto Forecasting Suite** — Multi-model pipeline (ARIMA, GBMs, LSTM) for OHLCV forecasting across BTC, ETH, LTC + Streamlit demo.  
-  `https://github.com/Saish31/crypto-forecasting` *(replace with real link)*
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithm%20Design-2C3E50?style=flat-square)
+![Performance](https://img.shields.io/badge/Performance%20Benchmarking-27AE60?style=flat-square)
 
-- **Group Chat Application (Java)** — Real-time chat app showcasing networking, concurrency, and sockets.  
-  `https://github.com/Saish31/group-chat-app` *(replace with real link)*
+Implemented the BMSSP single-source shortest path algorithm with a buffered priority queue, achieving up to **1.8× speedup** on million-scale graphs.
 
-- **Invoice Processing System (Java)** — Business logic + PDF export; designed to show integration and automation skills.  
-  `https://github.com/Saish31/invoice-processing-system` *(replace with real link)*
+🔗 [View Repository](https://github.com/Saish31/dsaProjects/tree/main/BMSSP_Algorithm)
 
----
+</td>
+<td width="50%">
 
-## GitHub Stats
+### 🔹 Supply Chain Risk Prediction & Dashboard
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Saish31&theme=yellowdark)](https://git.io/streak-stats)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+End-to-end ML system using Random Forest + SHAP explainability to predict financial disruption metrics (R² up to **0.85**), deployed via Streamlit.
+
+🔗 [View Repository](https://github.com/Saish31/SupplyChain_Risk_Assessment)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔹 Transformer-Based FX Forecasting
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Transformer](https://img.shields.io/badge/Transformer-6C3483?style=flat-square)
+![TimeSeries](https://img.shields.io/badge/Time%20Series%20Analysis-1ABC9C?style=flat-square)
+
+Built a Transformer from scratch to forecast hourly EUR/USD prices using technical indicators; achieved **MAE = 0.0035** on test data.
+
+🔗 [View Repository](https://github.com/Saish31/AIML/tree/main/Transformer_Trading)
+
+</td>
+<td width="50%">
+
+### 🔹 Transformer for Neural Machine Translation
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-2980B9?style=flat-square)
+![DeepLearning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=flat-square)
+
+Implemented an English→Hindi Transformer with custom attention, positional encoding, and teacher forcing for stable sequence-to-sequence training.
+
+🔗 [View Repository](https://github.com/Saish31/AIML/tree/main/Transformer)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Education & Certifications
-- B.Tech — Mechanical Engineering  
-- MSc — Applied AI (University of Warwick) *(upcoming / currently enrolled: adjust if needed)*  
-- Completed courses: Udemy — Advanced ML & Deep Learning Projects (NLP + CV)
+- **University of Warwick**   
+- **Birla Institute of Technology and Science, Pilani**  
+- **AWS Certified Cloud Practitioner**
 
 ---
 
-## Contact & Links
-- Email: your.email@example.com  <!-- replace -->
-- LinkedIn: https://www.linkedin.com/in/saish-sail/  <!-- replace if different -->
-- Resume: https://your-link-to-resume.pdf  <!-- replace -->
+### 📬 Contact & Links
 
----
-
-## What I can help you with
-- Building ML/forecasting pipelines and dashboards (Streamlit/Dash).  
-- Model interpretability: SHAP/LIME workflows and visualizations.  
-- End-to-end project structure for portfolio readiness (data → models → CI/CD → demo).
-
----
-
-## How to customize this README (quick checklist)
-1. Replace placeholder links (email, LinkedIn, resume).  
-2. Update project links to the exact repo URLs and a one-line project tagline.  
-3. Swap the GitHub stats theme or add additional badges (shields.io).  
-4. Add a short personal photo or GIF (optional) under the top header.  
-5. Pin the repos on your GitHub profile for easy visitor navigation.
-
----
-
-If you want, I can:
-- Fill in the placeholders (email, resume link, LinkedIn).  
-- Replace the project placeholders with exact repo names and nice 1-line descriptions.  
-- Generate the badges/icons (shields) you prefer and preview the final README.
-
-Tell me what to replace (email / resume / repo links / any wording tweaks) and I’ll return the updated README ready to paste.
+✉️ **Email:** [saishsail103@gmail.com](mailto:saishsail103@gmail.com)  
+🔗 **LinkedIn:** [saishsail](https://www.linkedin.com/in/saishsail)  
+💻 **Codeforces:** [Saish31](https://codeforces.com/profile/Saish31)
+  
+_Let’s build something cool together 🚀_
 
