@@ -4,7 +4,8 @@
 -->
 
 # Hi, I’m Saish! 👋  
-Software developer & applied machine learning practitioner building projects in ML, time-series forecasting, and full-stack dashboards. I enjoy turning research ideas into reproducible code and production-ready demos.
+Software developer & applied machine learning practitioner building projects in ML, time-series forecasting, and full-stack dashboards.  
+I enjoy turning research ideas into reproducible code and production-ready demos.
 
 - 🔭 Currently: Preparing portfolio projects for Quant/ML roles and improving explainability (SHAP/LIME) & hyperparameter tuning workflows.  
 - 🧪 Past internships: UST, Maybank: hands-on experience in software development and cloud.  
