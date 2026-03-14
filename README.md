@@ -9,7 +9,7 @@ I enjoy turning research ideas into reproducible code and production-ready demos
 
 - 🔭 Currently: Preparing portfolio projects for Quant/ML roles and improving explainability (SHAP/LIME) & hyperparameter tuning workflows.  
 - 🧪 Past internships: UST, Maybank: hands-on experience in software development and cloud.  
-- 🎯 Career focus: Quant Developer → Quant Researcher → AI/ML Engineer → Data Scientist → SDE.  
+- 🎯 Career focus: Quant Developer → Quant Researcher → SDE → AI/ML Engineer → Data Scientist.  
 - 🌍 Based in the UK (open to opportunities).
 
 ---
